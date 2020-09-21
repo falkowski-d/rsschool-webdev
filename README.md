@@ -1,1 +1,1 @@
-# rsschool-webdev
+# rsschool-webdev-gh
